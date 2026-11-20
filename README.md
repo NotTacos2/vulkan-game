@@ -17,5 +17,5 @@ This is similar to my OpenGL game, Teapot Collector, however this is made using 
 - Basic Character Movement with turning
 
 ## Credits
-Assets - getintogamedev
-STB_IMAGE - Sean Barrett
+- Assets - getintogamedev
+- STB_IMAGE - Sean Barrett
